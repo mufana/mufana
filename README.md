@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a few PowerShell projects
+- 🌱 I’m currently learning C#
+- 💬 Ask me about C#, PowerShell. Always happy to help
+- 📫 How to reach me: LinkedIn, Github
 
 <!--
 **mufana/mufana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
