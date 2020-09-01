@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a few PowerShell projects
-- 🌱 I’m currently learning everything that I like
+- 🌱 I’m currently learning Azure Functions
 - 💬 Ask me about anything! always happy to help
-
+ 
 <!--
 **mufana/mufana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
