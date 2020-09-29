@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Azure Functions
 - 💬 Ask me about anything! always happy to help
  
- ### Github Stats:
+ ### Github Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=Mufana&theme=dark)](https://github.com/82Blu/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mufana)](https://github.com/82Blu/github-readme-stats)
