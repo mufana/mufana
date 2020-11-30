@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a few PowerShell projects
-- 🌱 I’m currently learning Azure Functions
+- 🔭 I’m currently working on a few C# projects
+- 🌱 I’m currently learning ASP.NET. (API's, MVC and Blazor)
 - 💬 Ask me about anything! always happy to help
  
  ### Tools4ever HelloID Connectors
