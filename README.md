@@ -6,7 +6,7 @@
  ### Tools4ever HelloID Connectors
 https://github.com/Tools4everBV
 
-### My other account
+### My company account
 https://github.com/JeroenBl
  
  ### Github Stats
