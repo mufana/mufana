@@ -1,13 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a few C# projects
+- 🔭 I’m always working on PowerShell and C# stuff
 - 🌱 I’m currently learning ASP.NET. (API's, MVC and Blazor)
 - 💬 Ask me about anything! always happy to help
  
  ### Tools4ever HelloID Connectors
 https://github.com/Tools4everBV
-
-### My company account
-https://github.com/JeroenBl
  
  ### Github Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=Mufana&theme=dark)](https://github.com/82Blu/github-readme-stats)
